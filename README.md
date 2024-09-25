@@ -8,3 +8,4 @@
 - restore
 - branch
 - swtich
+- merge
