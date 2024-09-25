@@ -9,3 +9,6 @@
 - branch
 - swtich
 - merge
+
+## Git 병합 (3가지 방식)
+- Fast Forward
